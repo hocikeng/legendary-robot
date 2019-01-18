@@ -1,0 +1,3 @@
+Для компиляции файла main.cpp:
+  g++ -c main.cpp
+  g++ main.o -o program.exe
